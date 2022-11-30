@@ -1,0 +1,1 @@
+/home/saad/catkin_ws/devel/.private/uuv_thruster_manager/lib/uuv_thruster_manager/thruster_allocator.py
